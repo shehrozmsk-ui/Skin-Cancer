@@ -1,0 +1,16 @@
+{
+    "dataset_directory": "/kaggle/input/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images/melanoma_cancer_dataset/test",
+    "image_size": [
+        128,
+        128
+    ],
+    "classes": [
+        "benign",
+        "malignant"
+    ],
+    "number_of_classes": 2,
+    "epochs_completed": 10,
+    "validation_loss": 0.2919815480709076,
+    "validation_accuracy": 0.8999999761581421,
+    "validation_accuracy_percent": 90.0
+}
